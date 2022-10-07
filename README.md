@@ -1,5 +1,7 @@
 # Turborepo starter
 
+    // "dev": "webpack-cli serve",
+
 This is an official npm starter turborepo.
 
 ## What's inside?
